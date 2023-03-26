@@ -79,7 +79,7 @@ params:
   description: |-
     ## this is supposed to be a description
     
-    will be added when written.
+    will be added when written. True story.
 
 
   favicon: favicon.ico
