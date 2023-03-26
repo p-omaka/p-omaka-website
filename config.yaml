@@ -1,0 +1,116 @@
+baseurl: https://p-omaka.si/
+languageCode: en-us
+title: P-omaka
+theme: hugo-themes-cactus
+googleAnalytics: ''
+disqusShortname: example
+enableEmoji: true
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+copyright: P-omaka
+permalinks:
+  post: /:year/:month/:day/:slug/
+menu:
+  main:
+    - name: Domov
+      url: /
+      weight: 1
+    - name: Objave
+      url: /posts
+      weight: 2
+    - name: jazjazi
+      url: /meme_vault
+      weight: 3
+    - name: O nas
+      url: /about
+      weight: 4
+    - name: Heštegi
+      url: /tags
+      weight: 5
+    - name: Kategorije
+      url: /categories
+      weight: 6
+    - name: Kontakt
+      url: /contact
+      weight: 7
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: true
+    tabWidth: 4
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
+params:
+  colortheme: p-omaka
+  rss: false
+  googleAnalyticsAsync: false
+  showAllPostsArchive: false
+  mainSection: posts
+  mainSectionTitle: Nedavne objave
+  showAllPostsOnHomePage: false
+  postsOnHomePage: 5
+  tagsOverview: false
+  showProjectsList: false
+  projectsUrl: 'https://github.com/gohugoio'
+  dateFormat: '2006-01-02'
+  show_updated: true
+  showReadTime: true
+  tocInline: true
+  comments:
+    enabled: false
+    engine: disqus
+    utterances:
+      repo: <github_username>/<github_reponame>
+      label: hugo-site-name
+      theme: github-light
+    cactuscomments:
+      siteName: p-omaka
+  description: |-
+    ## naslov naslov naslov
+
+    * Bullet1
+    * Bullet2
+    
+    pišemo tekst
+    
+    še še še
+    
+    mal več
+    
+    testiramo dolžino
+    
+    asdf
+    
+    fdsa
+    
+    123456789
+    
+    987654321
+    
+    pišemo tekst
+    
+    še še še
+    
+    mal več
+    
+    testiramo dolžino
+    
+    asdf
+    
+    fdsa
+    
+    123456789
+    
+    987654321
+  favicon: favicon.ico

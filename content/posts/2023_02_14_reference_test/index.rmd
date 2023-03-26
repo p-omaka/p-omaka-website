@@ -1,0 +1,23 @@
+---
+title: "testing reference"
+author: "RR"
+date: 2023-02-14T22:13:14-05:00
+categories: [statistika]
+tags: [test, TOC]
+bibliography: reference.bib
+csl: citiranje.csl
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## test citata 56
+
+test citata @R-base5
+
+test citata @R-base6
+
+
+## Viri in literatura
