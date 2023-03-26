@@ -77,40 +77,9 @@ params:
     cactuscomments:
       siteName: p-omaka
   description: |-
-    ## naslov naslov naslov
+    ## this is supposed to be a description
 
-    * Bullet1
-    * Bullet2
-    
-    pišemo tekst
-    
-    še še še
-    
-    mal več
-    
-    testiramo dolžino
-    
-    asdf
-    
-    fdsa
-    
-    123456789
-    
-    987654321
-    
-    pišemo tekst
-    
-    še še še
-    
-    mal več
-    
-    testiramo dolžino
-    
-    asdf
-    
-    fdsa
-    
-    123456789
-    
-    987654321
+will be added when written.
+
+
   favicon: favicon.ico
