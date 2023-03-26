@@ -5,7 +5,7 @@ title: O nas
 <p style="text-align: left;"> We r legun. We nevr frget. We nevr frgiv. Expecto patronum. </p>
 
 
-![><](/about_images/CsSTkZkVMAAWmTh.jpg)
+![><](static/about_images/CsSTkZkVMAAWmTh.jpg)
 
 
 | Alias        | Kratko     | Kaj        |
